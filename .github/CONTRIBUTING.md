@@ -9,13 +9,13 @@ The development of Scratch is an ongoing process, and we love to have people in 
     * Some issues are marked "Needs Repro". Adding a comment with good reproduction steps to those issues is a great way to help.
   * If you don't have an issue in mind already, you can look through the [Bugs & Glitches forum.](https://scratch.mit.edu/discuss/3/) Look for users reporting problems, reproduce the problem yourself, and file new issues following our guidelines. 
 
-* **Fixing bugs**
+* **By fixing bugs**
   * You can request to fix a bug in a comment on the issue if you at mention the repo coordinator, who for this repo is @cwillisf.
     * If the issue is marked "Help Wanted" you can go ahead and start working on it!
   * **We will only accept Pull Requests for bugs that have an issue filed that has a priority label** 
     * If you're interested in fixing a bug with no issue, file the issue first and wait for it to have a priority added to it.
   
-  * We are not looking for Pull Requests ("PR") for every issue and may deny a PR if it doesn't fit our criteria.
+  * We are not looking for Pull Requests ("PRs") for every issue and may deny a PR if it doesn't fit our criteria.
     * We are far more likely to accept a PR if it is for an issue marked with Help Wanted.
     * We will not accept PRs for issues marked with "Needs Discussion" or "Needs Design."
     * Wait until the Repo Coordinator assigns the issue to you before you begin work or submit a PR.
@@ -30,7 +30,7 @@ If you want to work on fixing issues, you should be familiar with Git and Github
 **Important:** we follow the [Github Flow process](https://guides.github.com/introduction/flow/) as our development process.
 
 ### How to Fix Bugs
-1. Identify which Github issue you are working on. Leave a comment on the issue to let us (and other contributors) know you're working on it.
+1. Identify which Github issue you are working on. Then leave a comment on the issue to let us (and other contributors) know you're working on it.
 2. Make sure you have a fork of this repo (see [Github's forking a repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) for details)
 3. Switch to the `develop` branch, and pull down the latest changes from upstream
 4. Run the code, and reproduce the problem
