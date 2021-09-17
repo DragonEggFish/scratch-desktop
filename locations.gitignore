@@ -1,7 +1,7 @@
-# Mac OS
+# For Mac OS
 .DS_Store
 
-# Windows
+# For Windows
 thumbs.db
 
 # NPM
@@ -19,7 +19,7 @@ npm-*
 /.opt-in
 /*.provisionprofile
 
-# don't store the assets downloaded with the `fetch` script
+# Please don't store the assets downloaded with the `fetch` script
 /static/assets/
 
 # generated translation files
